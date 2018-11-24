@@ -1,4 +1,7 @@
 # ClimaApp ⛅
+# Programacion Avanzada
+# Alumnos
+Casanovas, Rivero, Silva
 Aplicación para obtener los datos del clima. 
 
 Ejemplo:
