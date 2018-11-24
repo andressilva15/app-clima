@@ -1,0 +1,15 @@
+{
+  "name": "clima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clima.js",
+  "scripts": {
+    "clima": "node app.js -d 'concordia entre rios'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.2"
+  }
+}
